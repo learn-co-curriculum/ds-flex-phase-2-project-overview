@@ -104,7 +104,7 @@ Project Review Format
 + The reviewing instructor will then discuss any feedback or action items for the presentation
 
 * Next, you will go through your **technical notebook**
-+ Please have the notebook open and pre-run before your review (if possible)
++ Please have the notebook open and pre-run before your review.
 + Depending on which project it is, the reviewing instructor will focus on a few areas of the notebook and generally will NOT have you talk through 100% of it
 
 * After reviewing the notebook and presentation, the reviewing instructor will submit feedback based on the rubric in Canvas (with the changes requested, if relevant)
