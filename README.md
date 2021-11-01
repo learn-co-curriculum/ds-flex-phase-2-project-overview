@@ -52,7 +52,7 @@ When you're ready to begin the project, we recommend you do three things:
 
 1. Message your One-on-One Lead on Slack and indicate you've begun the project
 2. Create your GitHub repository where you can save all of your work
-3. Schedule a Project Review session ***with an instructor other than your One-on-One Lead***
+3. Schedule a Project Review session ***with an instructor other than your One-on-One Lead*** ([https://go.oncehub.com/ODSPhase2ProjectReviews](https://go.oncehub.com/ODSPhase2ProjectReviews))
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
 
 
@@ -65,6 +65,10 @@ Submitting Your Project on Canvas
 		- [Phase 2 Project - GitHub Repository URL🔗 ]("Phase 2 Project - GitHub Repository URL")
 	+ The PDF Exports of Your Notebook, Presentation, and README are uploaded here:
 		- [Phase 2 Project Assignment🔗 ]("Phase 2 Project")
+
+* After doing so, please complete the [End of Phase survey](https://learn.co/redirect/student-nps-survey?Discipline=Data%20Science) and slack your instructor immediately. 
+	* They will then open up the next Phase for you so that you can begin to work through the next Phase's lessons while you await your review.
+
 * For additional instructions on submitting your project pdfs on canvas see:
 	+ [Project Submission & Review (Online)🔗 ]("Project Submission & Review (Online)")
 
