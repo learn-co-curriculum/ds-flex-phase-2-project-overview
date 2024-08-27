@@ -60,12 +60,10 @@ Submitting Your Project on Canvas
 
 * You will turn in your project materials to Canvas by going to the Phase 2 Project assignment and clicking Start Assignment.
 
-TODO: FIX IMAGE TO PHASE 2
 ![image showing canvas page for the Phase 2 Project assignment with the Start Assignment button visible](./images/canvas-submission-1.png)
 
 * Upload the 3 PDFs for each of your deliverables (Notebook.pdf, Slides.pdf, README.pdf) to Canvas and click Submit.
 
-TODO: FIX IMAGE FOR PHASE 2
 ![image showing canvas page with the submission box where student can click Choose File, Add Another File, Cancel, and Submit Assignment buttons](./images/canvas-submission-2.png)
 
 * After doing so, please schedule your review.
